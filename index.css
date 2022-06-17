@@ -1,0 +1,8 @@
+.displayContainer {
+    width: 300px;
+    height: 200px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 10px;
+    padding: 5px;
+}
